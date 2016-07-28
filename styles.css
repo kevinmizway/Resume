@@ -1,0 +1,17 @@
+.summary {
+  text-align: center;
+}
+
+.special {
+  font-weight: bold;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+.red {
+  color:red;
+}
+
+.Education {
+  font-size: 50px;
+}
